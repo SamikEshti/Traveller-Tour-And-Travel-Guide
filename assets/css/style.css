@@ -1,0 +1,33 @@
+.bus-menu ul li {
+    padding: 10px;
+}
+
+.bus-menu ul {
+    width: 350px;
+}
+
+li.dropdown {
+    border: 1px solid #ddd;
+}
+
+ul.dropdown-menu.show li a {
+    display: block;
+    border-bottom: 1px solid;
+    padding: 10px;
+}
+
+ul.dropdown-menu.show li {
+    padding: 0px;
+}
+
+ul.nav.navbar-nav li {
+    padding: 0px !important;
+}
+
+ul.nav.navbar-nav li a {
+    display: block;
+    padding: 10px;
+}
+
+
+
